@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "HifiDuck"
+title = "HifiDuk"
 
 [params]
   displayName = "EN"
@@ -11,11 +11,11 @@ title = "HifiDuck"
   dateFormat = "2 January 2006"
   # logo = "hifiduck02.png"
   # secondaryLogo = "img/secondary-logo.png"
-  description = "HifiDuck"
+  description = "HifiDuk"
   # copyright = ""
 
 [params.author]
-  name = "HifiDuck"
+  name = "HifiDuk"
 # email = "youremail@example.com"
   image = "img/hifiduck02.png"
 # imageQuality = 96
