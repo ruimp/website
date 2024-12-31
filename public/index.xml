@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HifiDuck</title>
-    <link>https://ruimp.com/</link>
+    <link>https://hifiduk.me/</link>
     <description>Recent content on HifiDuck</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 HifiDuck</copyright>
-    <lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ruimp.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://hifiduk.me/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About me</title>
-      <link>https://ruimp.com/contact/</link>
+      <link>https://hifiduk.me/contact/</link>
       <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://ruimp.com/contact/</guid>
+      <guid>https://hifiduk.me/contact/</guid>
       <description></description>
       
     </item>
