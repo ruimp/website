@@ -3,13 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://hifiduk.me/contact/</loc>
+    <loc>https://hifiduk.com/posts/</loc>
     <lastmod>2024-12-31T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://hifiduk.me/</loc>
+    <loc>https://hifiduk.com/about/</loc>
+    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://hifiduk.com/</loc>
+    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://hifiduk.com/posts/test/</loc>
     <lastmod>2024-12-31T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on HifiDuk</title>
-    <link>https://hifiduk.me/tags/</link>
-    <description>Recent content in Tags on HifiDuk</description>
+    <title>Tags on Hifiduk</title>
+    <link>https://hifiduk.com/tags/</link>
+    <description>Recent content in Tags on Hifiduk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 HifiDuk</copyright>
-    <atom:link href="https://hifiduk.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>rmp@ruimp.com (Hifiduk)</managingEditor>
+    <webMaster>rmp@ruimp.com (Hifiduk)</webMaster>
+    
+    <atom:link href="https://hifiduk.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

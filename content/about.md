@@ -11,3 +11,6 @@ Reach me through:
 
 - Email: [rmp at ruimp.com](mailto:rmp@ruimp.com)
 - Discord: [@dot5871](https://discord.com/users/409109213592158212)
+
+You can find notes and miscellaneous projects on
+[Github](https://github.com/ruimp/).

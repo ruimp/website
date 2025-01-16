@@ -12,15 +12,20 @@
 
 [[main]]
   name = "Blog"
-  jpageRef = "posts"
+  pageRef = "posts"
   weight = 10
 
 [[main]]
-  name = "Contact"
-  pageRef = "contact"
+  name = "About"
+  pageRef = "about"
   weight = 20
 
-#[[main]]
+[[main]]
+  pre = "github"
+  url = "http://github.com/ruimp/"
+  weight = 30
+
+# [[main]]
 #  name = "example sub-menu 1"
 #  parent = "Parent"
 #  pageRef = "posts"

@@ -2,32 +2,32 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "HifiDuk"
+title = "Hifiduk"
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "hifiduck02.png"
-  # secondaryLogo = "img/secondary-logo.png"
-  description = "HifiDuk"
+  # logo = "img/hifiduck02.png"
+  # secondaryLogo = "img/hifiduck02.png"
+  description = "Hifiduk"
   # copyright = ""
 
 [params.author]
-  name = "HifiDuk"
-# email = "youremail@example.com"
-  image = "img/hifiduck02.png"
+  name = "Hifiduk"
+  email = "rmp@ruimp.com"
+  image = "img/hifiduck01.png"
 # imageQuality = 96
   headline = "A pinch of abstraction, a load of nonsense"
 #   bio = "A little bit about you"
-#   links = [
-#     { email = "mailto:rmp@ruimp.com" },
+  links = [
+    { email = "mailto:rmp@ruimp.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
 #     { blogger = "https://username.blogspot.com/" },
-#     { bluesky = "https://bsky.app/profile/username" },
+    # { bluesky = "https://bsky.app/profile/username" },
 #     { codepen = "https://codepen.io/username" },
 #     { dev = "https://dev.to/username" },
 #     { discord = "https://discord.gg/invitecode" },
@@ -35,7 +35,7 @@ title = "HifiDuk"
 #     { facebook = "https://facebook.com/username" },
 #     { flickr = "https://www.flickr.com/photos/username/" },
 #     { foursquare = "https://foursquare.com/username" },
-#     { github = "https://github.com/ruimp" },
+    { github = "https://github.com/ruimp" },
 #     { gitlab = "https://gitlab.com/username" },
 #     { google = "https://www.google.com/" },
 #     { hashnode = "https://username.hashnode.dev" },
@@ -70,4 +70,4 @@ title = "HifiDuk"
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
-#   ]
+  ]
